@@ -92,7 +92,7 @@ python data_scraping_pipeline.py
 uvicorn main:app --reload
 
 ```
-- Visit http://127.0.0.1:8000/docs to explore.
+- Visit http://127.0.0.1:8000/ to explore.
 
 
 

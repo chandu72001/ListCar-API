@@ -135,6 +135,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+Listcar-API_venv/
 
 # Spyder project settings
 .spyderproject
